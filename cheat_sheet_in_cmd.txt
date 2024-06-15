@@ -1,0 +1,52 @@
+how to open cmd: type "cmd" in windows file expoler
+
+if you want to add a file to your repo, follow the steps below (steps below are conducted in cmd)
+1. git status --> you will see your modified file in red text, which means you just modified them and you didn't push it onto your repo
+2. git add [file] --> Add file(s) to the staging area.
+3. git commit -m "[commit_message]" --> Commit changes to the repository.
+4. git push --> Push changes to the remote repository.
+
+if you want to update your file,do this:
+git pull -->Fetch and merge changes from the remote repository.
+
+
+
+### Git Commands:
+git clone [repository_url]: Clone a Git repository.
+git add [file]: Add file(s) to the staging area.
+git commit -m "[commit_message]": Commit changes to the repository.
+git push: Push changes to the remote repository.
+git pull: Fetch and merge changes from the remote repository.
+
+### Navigation:
+- `cd [directory]`: Change directory.
+- `cd ..`: Move up one directory.
+- `dir`: List contents of the current directory.
+- `mkdir [directory]`: Create a new directory.
+- `rmdir [directory]`: Remove a directory (only works for empty directories).
+- `del [file]`: Delete a file.
+
+### File Operations:
+- `copy [source] [destination]`: Copy a file.
+- `move [source] [destination]`: Move a file.
+- `ren [old_name] [new_name]`: Rename a file.
+- `type [file]`: Display the contents of a file.
+
+### System Information:
+- `systeminfo`: Display detailed configuration information about a computer and its operating system.
+- `ipconfig`: Display network configuration information.
+- `tasklist`: Display a list of currently running processes.
+- `taskkill /pid [pid]`: Terminate a process using its process ID (PID).
+
+### Miscellaneous:
+- `echo [text]`: Display text on the screen.
+- `cls`: Clear the command prompt window.
+- `exit`: Close the Command Prompt window.
+
+
+### Help:
+- `help [command]`: Display help information for a specific command.
+
+Remember to replace `[text]`, `[directory]`, `[file]`, `[source]`, `[destination]`, `[old_name]`, `[new_name]`, `[pid]`, and `[repository_url]` with the appropriate values for your use case.
+
+This cheat sheet covers a range of commonly used commands in Windows CMD. Depending on your specific requirements, you may need to explore additional commands and functionalities.

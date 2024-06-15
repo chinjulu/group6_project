@@ -1,0 +1,836 @@
+[
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 75,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 95,
+        "healthy_level": 85
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 95,
+        "healthy_level": 85
+    },
+    {
+        "hour": 33,
+        "hungry_level": 0,
+        "happy_level": 70,
+        "healthy_level": 85
+    },
+    {
+        "hour": 33,
+        "hungry_level": 0,
+        "happy_level": 70,
+        "healthy_level": 85
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 81,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 80
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 70,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 65,
+        "healthy_level": 95
+    },
+    {
+        "hour": 39,
+        "hungry_level": 0,
+        "happy_level": 80,
+        "healthy_level": 85
+    },
+    {
+        "hour": 48,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 85
+    },
+    {
+        "hour": 48,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 85
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 80
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 50,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 50,
+        "healthy_level": 95
+    },
+    {
+        "hour": 45,
+        "hungry_level": 0,
+        "happy_level": 75,
+        "healthy_level": 85
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": -60,
+        "healthy_level": 95
+    },
+    {
+        "hour": 5,
+        "hungry_level": 40,
+        "happy_level": -55,
+        "healthy_level": 100
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 50,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 60,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 30,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 60,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 50,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 30,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 95
+    },
+    {
+        "hour": 15,
+        "hungry_level": 0,
+        "happy_level": 50,
+        "healthy_level": 95
+    },
+    {
+        "hour": 39,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 95
+    },
+    {
+        "hour": 18,
+        "hungry_level": 0,
+        "happy_level": 110,
+        "healthy_level": 95
+    },
+    {
+        "hour": 10,
+        "hungry_level": 30,
+        "happy_level": -50,
+        "healthy_level": 95
+    },
+    {
+        "hour": 10,
+        "hungry_level": 30,
+        "happy_level": -50,
+        "healthy_level": 95
+    },
+    {
+        "hour": 18,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 90
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 80
+    },
+    {
+        "hour": 27,
+        "hungry_level": 55,
+        "happy_level": -25,
+        "healthy_level": 95
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 80
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 80
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 69,
+        "hungry_level": 0,
+        "happy_level": 90,
+        "healthy_level": 100
+    },
+    {
+        "hour": 16,
+        "hungry_level": 25,
+        "happy_level": -60,
+        "healthy_level": 90
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 85
+    },
+    {
+        "hour": 42,
+        "hungry_level": 0,
+        "happy_level": 45,
+        "healthy_level": 90
+    },
+    {
+        "hour": 51,
+        "hungry_level": 0,
+        "happy_level": 40,
+        "healthy_level": 80
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 63,
+        "hungry_level": 0,
+        "happy_level": 75,
+        "healthy_level": 95
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 50,
+        "healthy_level": 85
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 45,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 45,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 25,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 3,
+        "hungry_level": 45,
+        "happy_level": -10,
+        "healthy_level": 100
+    },
+    {
+        "hour": 12,
+        "hungry_level": 30,
+        "happy_level": -10,
+        "healthy_level": 95
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 45,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 15,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 35,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 15,
+        "healthy_level": 85
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 95,
+        "healthy_level": 35
+    },
+    {
+        "hour": 87,
+        "hungry_level": 80,
+        "happy_level": -10,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 100,
+        "healthy_level": 50
+    },
+    {
+        "hour": 87,
+        "hungry_level": 80,
+        "happy_level": -10,
+        "healthy_level": 100
+    },
+    {
+        "hour": 72,
+        "hungry_level": -5,
+        "happy_level": 65,
+        "healthy_level": 80
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 0,
+        "hungry_level": 50,
+        "happy_level": 50,
+        "healthy_level": 100
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 95,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 95,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 95,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 35
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 80,
+        "healthy_level": 55
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 35
+    },
+    {
+        "hour": 30,
+        "hungry_level": 0,
+        "happy_level": 90,
+        "healthy_level": 35
+    },
+    {
+        "hour": 36,
+        "hungry_level": 0,
+        "happy_level": 85,
+        "healthy_level": 45
+    },
+    {
+        "hour": 159,
+        "hungry_level": -5,
+        "happy_level": 100,
+        "healthy_level": 100
+    },
+    {
+        "hour": 159,
+        "hungry_level": -5,
+        "happy_level": 100,
+        "healthy_level": 100
+    },
+    {
+        "hour": 165,
+        "hungry_level": -5,
+        "happy_level": 100,
+        "healthy_level": 95
+    }
+]
